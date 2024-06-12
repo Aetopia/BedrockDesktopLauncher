@@ -1,5 +1,6 @@
 # Bedrock Desktop Launcher
 An experimental launcher that attempts to integrate Minecraft: Bedrock Edition as a desktop app.
+
 > ![CAUTION]
 > This project is entirely experimental!
 > This project was an attempt to install Minecraft: Bedrock Edition under development mode with extremely minimal dependencies.
